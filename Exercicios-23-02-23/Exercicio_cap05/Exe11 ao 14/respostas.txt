@@ -1,0 +1,10 @@
+11_ Indicar para qual arquivo de scriptis os valores coletados dentro do formulario devem ser enviados.
+
+12_ GET envia as infromação do formulario via url, o que não é muito seguro por deixar as
+informações amostra. POST envias as informações do formulario atravez de pacotes sendo mais seguro, porém, 
+o processo pode levar mais tempo comparando ao GET.
+
+13_type="password"
+
+14_ Sua utilidade é para escolhe uma opção dentro de varias. Sua sintax começa com o <select> para construiro 
+o corpo da seção de seleção, os seus valores são adicionados pela tag <option> pra preencher o select.
