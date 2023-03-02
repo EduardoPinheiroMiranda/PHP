@@ -1,0 +1,6 @@
+
+A escolha do seu valor pode variar com qual o metodo de codificação deseja.
+1°: "application / x-www-form-urlencoded": É o valor padrão, ele codifica todos os caracteres antes de serem enviados ao 
+servidor, ele converte espaços em símbolos "+" e caracteres especiais em seu valor hexadecimal.
+2°: "multipart / form-data": Este valor não codifica nenhum caractere.
+3°: "text / plain": Este valor converte espaços em símbolos +, mas os caracteres especiais não são convertidos.
